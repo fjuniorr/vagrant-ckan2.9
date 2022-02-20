@@ -85,9 +85,6 @@ setup(
     entry_points='''
         [ckan.plugins]
         dtamg=ckanext.dtamg.plugin:DtamgPlugin
-
-        [babel.extractors]
-        ckan = ckan.lib.extract:extract_ckan
     ''',
 
     # If you are changing from the default layout of your extension, you may
