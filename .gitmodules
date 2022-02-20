@@ -1,3 +1,6 @@
 [submodule "src/ckan"]
 	path = src/ckan
 	url = https://github.com/ckan/ckan.git
+[submodule "src/ckanext-xloader"]
+	path = src/ckanext-xloader
+	url = git@github.com:ckan/ckanext-xloader.git
