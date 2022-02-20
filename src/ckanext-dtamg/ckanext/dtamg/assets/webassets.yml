@@ -1,0 +1,14 @@
+# dtamg-js:
+#   filter: rjsmin
+#   output: ckanext-dtamg/%(version)s-dtamg.js
+#   contents:
+#     - js/dtamg.js
+#   extra:
+#     preload:
+#       - base/main
+
+# dtamg-css:
+#   filter: cssrewrite
+#   output: ckanext-dtamg/%(version)s-dtamg.css
+#   contents:
+#     - css/dtamg.css
