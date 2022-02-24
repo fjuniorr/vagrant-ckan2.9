@@ -4,3 +4,6 @@
 [submodule "src/ckanext-xloader"]
 	path = src/ckanext-xloader
 	url = git@github.com:ckan/ckanext-xloader.git
+[submodule "src/datapusher"]
+	path = src/datapusher
+	url = https://github.com/ckan/datapusher
