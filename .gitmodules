@@ -7,3 +7,6 @@
 [submodule "src/datapusher"]
 	path = src/datapusher
 	url = https://github.com/ckan/datapusher
+[submodule "src/ckanext-geoview"]
+	path = src/ckanext-geoview
+	url = git@github.com:ckan/ckanext-geoview.git
